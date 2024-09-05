@@ -4,7 +4,6 @@ urlpatterns = [
     
     
     
-    # jkfldlfjk
     
     
 ]
